@@ -1,7 +1,7 @@
 # Order-to-Cash-O2C-Process-Analytics-Revenue-Collection-Dashboard-using-Excel.
 # 📦 Order-to-Cash (O2C) Data Analysis 
 
-A comprehensive Excel-based analytics project tracking the end-to-end Order-to-Cash process across regions, customers, and months — covering revenue, collections, outstanding receivables, and aging analysis for FY 2024–25.
+A comprehensive Excel-based analytics project tracking the end-to-end Order-to-Cash process across regions, customers, and months — covering revenue, collections, outstanding receivables, and aging analysis for FY 2024–25.  
 
 ---
 

@@ -13,7 +13,7 @@ This project analyzes **1,000 sales transactions** across **4 regions** and **12
 - Payment collection efficiency
 - Outstanding receivables and aging buckets
 - Customer-level risk profiling
-- Key O2C KPIs (DSO, Collection Efficiency, Fulfillment Rate)
+- Key O2C KPIs (DSO, Collection Efficiency, Fulfillment Rate)  
 
 ---
 
